@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Front-End Developer and passionate **DSA problem solver**
+- 🚀 Front-End Developer and passionate **DSA Problem Solver**
 - 💻 Currently working on building responsive UIs and sharpening algorithms
 - 📚 Exploring **React**, **JavaScript**, and **competitive programming**
 - 📬 Reach me at: zayediqbalmunna@gmail.com
@@ -37,12 +37,7 @@
 
 ---
 
-## 🚀 Projects
 
-⚠️ *(Pinned projects not available — add repositories to “Pinned” on your GitHub profile to auto-show here later!)*  
-Once you do, I’ll gladly update this section with beautiful cards.
-
----
 
 ## 🌐 Let's Connect
 
