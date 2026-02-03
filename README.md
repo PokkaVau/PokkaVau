@@ -19,7 +19,6 @@ Right now, my main goal is to grow step by step, strengthen my fundamentals, and
 ## 📚 Currently Learning
 
 - 🎓 Currently pursuing B.Sc. in Computer Science.
--🌍 Based in Bangladesh.
 - 📊 **Data Analysis**
 - 🧠 **Data Structures & Algorithms**
 
