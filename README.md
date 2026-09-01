@@ -1,104 +1,87 @@
-<h1 align="center">Hi 👋, I'm Zayed Iqbal Munna</h1>
+<div align="center">
 
-<p align="center">
-  <b>Aspiring Data Analyst & Computer Science Learner</b>
-</p>
+# Hi, I'm Zayed Iqbal Munna 👋
 
----
+### Aspiring Data Analyst & CS Undergrad | Building strong fundamentals, one project at a time
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zayed-iqbal-372852254/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayediqbalmunna@gmail.com)
 
-I’m a motivated learner currently focused on building a strong foundation in **Data Analysis** and **Data Structures & Algorithms (DSA)**.
+</div>
 
-I enjoy understanding how data can be used to make better decisions and how efficient algorithms power real-world software. In the past, I explored **web development** and built several small projects using **HTML, CSS, JavaScript, and PHP**, which helped me understand how applications work end-to-end.
+<br>
 
-Right now, my main goal is to grow step by step, strengthen my fundamentals, and build meaningful projects.
+## 🧭 About Me
 
----
+I'm a Computer Science undergraduate building a strong foundation in **Data Analysis** and **Data Structures & Algorithms**. I care about how data drives decisions and how efficient algorithms power the software behind them.
 
-## 📚 Currently Learning
+Before this, I spent time in **web development**, shipping small full-stack projects with HTML, CSS, JavaScript, and PHP — which gave me a solid feel for how applications work end-to-end, from the UI down to the database.
 
-- 🎓 Currently pursuing B.Sc. in Computer Science.
-- 📊 **Data Analysis**
-- 🧠 **Data Structures & Algorithms**
+Right now I'm focused on depth over breadth: strengthening fundamentals and building projects that actually solve something, rather than following tutorials.
 
----
+<br>
 
-## 🛠️ Skills & Tools
+## 🎯 Currently
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
-</p>
+- 🎓 Pursuing a **B.Sc. in Computer Science**
+- 📊 Learning **Data Analysis** (Python, SQL, Excel)
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🔭 Preparing for entry-level roles in tech
 
-### Data Analysis Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+<br>
 
-### Web Development (Previous Experience)
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
-</p>
+## 🛠️ Tech Stack
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</p>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 📂 Projects
+**Data Analysis**
 
-### Web Projects
-- [WCC Membership Form](https://github.com/PokkaVau/WCC_MemberShip_Form-V2-)  
-  Built using HTML, CSS, JavaScript, and PHP for form submissions and backend integration.
+![Python](https://img.shields.io/badge/Pandas%2FNumPy-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-- [National Citizen Health Service Portal](https://github.com/PokkaVau/National-Citizen-Health-Service-Portal-)  
-  A web portal for managing citizen health data using frontend and basic backend functionalities.
+**Web (previous experience)**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 🎯 Goals
+**Tools**
 
-- Build strong fundamentals in **Data Analysis**
-- Improve problem-solving through **DSA**
-- Create **real, practical projects** instead of just tutorials
-- Prepare for entry-level opportunities in tech
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+<br>
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**WCC Membership Form**](https://github.com/PokkaVau/WCC_MemberShip_Form-V2-) | A membership registration form with server-side handling for submissions. | HTML, CSS, JavaScript, PHP |
+| [**National Citizen Health Service Portal**](https://github.com/PokkaVau/National-Citizen-Health-Service-Portal-) | A web portal concept for managing citizen health records with basic backend logic. | HTML, CSS, JavaScript, PHP |
+
+<br>
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PokkaVau&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PokkaVau&theme=tokyonight" height="160" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PokkaVau&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PokkaVau&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
----
+<br>
 
-## 👁️ Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PokkaVau&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=PokkaVau&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-## 🌐 Connect With Me
+<i>Learning in public. Building step by step. 🚀</i>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-zayed-iqbal-372852254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zayediqbalmunna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Learning in public. Building step by step. 🚀</i>
-</p>
+</div>
